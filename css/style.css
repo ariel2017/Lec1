@@ -1,0 +1,51 @@
+.blue{
+    background: blue;
+}
+
+.green{
+    background: green;
+}
+
+.black{
+    background: black;
+}
+
+
+/* Small devices (tablets, 768px and up) 
+@media (min-width: 768px) and (max-width: 1200px) { 
+    .btn{
+        background: black;
+    }
+}
+*/
+
+/*.mybutton{
+   display: inline-block;
+    padding:20px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px black;
+}
+
+
+.purple{
+    background: #ff00dd;
+    color: white;
+}
+
+.green{
+    background: lightgreen;
+    color: white;
+}*/
+/*
+.jumbotron{
+    background: black;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+    border-radius: 16px;
+}*/
+
+
+.jumbotron{
+    background: linear-gradient(135deg, #ddd 0%,#e3e3e3 50%,#ccc 51%,#ddd 100%);
+}
